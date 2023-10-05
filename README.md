@@ -10,6 +10,7 @@
 | Cuckoo's Egg   | Cliff Stoll        | <https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)>      |
 | Hackers   | Steven Levy       | <https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution>      |
 | Neuromancer   | William Gibson       | <https://en.wikipedia.org/wiki/Neuromancer>      |
+| Cryptonomicon     |    Neal Stephenson    |   <https://en.wikipedia.org/wiki/Cryptonomicon>     |
 | Snow Crash   | Neal Stephenson       | <https://en.wikipedia.org/wiki/Snow_Crash>      |
 | Spycatcher   | Peter Wright       | <https://en.wikipedia.org/wiki/Spycatcher>      |
 | This Is How They Tell Me the World Ends: The Cyber-Weapons Arms Race   | Nicole Perlroth       | <https://en.wikipedia.org/wiki/This_Is_How_They_Tell_Me_the_World_Ends:_The_Cyberweapons_Arms_Race>      |
