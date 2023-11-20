@@ -1,5 +1,5 @@
 
-# 📚 A crowdsourced list of books that inspired peeps to move into infosec
+# 📚 A crowdsourced list of books that inspired peeps 
 
 🙋 Have some to add? Submit a pull request
 
@@ -11,6 +11,7 @@
 | Cuckoo's Egg   | Cliff Stoll        | <https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)>      |
 | The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics       |    Ben Buchanan   |   <https://www.hup.harvard.edu/catalog.php?isbn=9780674987555>     |
 | Hackers   | Steven Levy       | <https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution>      |
+| The Lazarus Heist | Geoff White | <https://www.penguin.co.uk/books/447163/the-lazarus-heist-by-white-geoff/9780241554272> | 
 | Neuromancer   | William Gibson       | <https://en.wikipedia.org/wiki/Neuromancer>      |
 | Cryptonomicon     |    Neal Stephenson    |   <https://en.wikipedia.org/wiki/Cryptonomicon>     |
 | Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers | Andy Greenberg | <https://www.penguinrandomhouse.com/books/597684/sandworm-by-andy-greenberg/> |
