@@ -1,4 +1,4 @@
-
+        
 # 📚 A crowdsourced list of cyber books (and some other hidden gems 💎)
 
 🙋 Have some to add? Submit a pull request
@@ -7,6 +7,8 @@
 | :---        |    :----:   |   -----------     |
 | Alan Turing: The Enigma   | Andrew Hodges       | <https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma>      |
 | Blackout | Marc Elsberg | <https://en.wikipedia.org/wiki/Blackout_(Elsberg_novel)> |
+| The Blue Nowhere | Jeffery Deaver | <https://www.jefferydeaver.com/novel/the-blue-nowhere/> | 
+| Burn-In: A Novel of the Real Robotic Revolution | P. W. Singer | <https://en.wikipedia.org/wiki/P._W._Singer#Burn-In:_A_Novel_of_the_Real_Robotic_Revolution> |
 | Code   | Charles Petzold       | <https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software>      |
 | Countdown to Zero Day | Kim Zetter | <https://www.penguinrandomhouse.com/books/219931/countdown-to-zero-day-by-kim-zetter/> |
 | Cryptonomicon     |    Neal Stephenson    |   <https://en.wikipedia.org/wiki/Cryptonomicon>     |
@@ -14,12 +16,13 @@
 | Daemon | Daniel Suarez | <https://en.wikipedia.org/wiki/Daemon_(novel)> |
 | Freedom | Daniel Suarez | <https://en.wikipedia.org/wiki/Freedom%E2%84%A2> | 
 | Hackers   | Steven Levy       | <https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution>      |
-| The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics       |    Ben Buchanan   |   <https://www.hup.harvard.edu/catalog.php?isbn=9780674987555>     |
-| 2600: The Hacker Quarterly |
+| The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics |    Ben Buchanan   |   <https://www.hup.harvard.edu/catalog.php?isbn=9780674987555>     |
+| 2600: The Hacker Quarterly | Emmanuel Goldstein, editor | <https://www.2600.com/> |
 | The Laundry Files | Charles Stross | <https://en.m.wikipedia.org/wiki/The_Laundry_Files> |
 | The Lazarus Heist | Geoff White | <https://www.penguin.co.uk/books/447163/the-lazarus-heist-by-white-geoff/9780241554272> | 
 | Neuromancer   | William Gibson       | <https://en.wikipedia.org/wiki/Neuromancer>      |
 | The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age | David E. Sanger | <https://crownpublishing.com/archives/feature/perfect-weapon-inside-story-cyberweapons> |
+| The Rho Agenda Series | Richard Phillips | <https://www.goodreads.com/series/61746-the-rho-agenda> |
 | Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers | Andy Greenberg | <https://www.penguinrandomhouse.com/books/597684/sandworm-by-andy-greenberg/> |
 | Savaged by Systemd: an Erotic Unix Encounter | Michael Warren Lucas | <https://www.amazon.com/Savaged-Systemd-Erotic-Unix-Encounter-ebook/dp/B075DYXZW1> |
 | Snow Crash   | Neal Stephenson       | <https://en.wikipedia.org/wiki/Snow_Crash>      |
