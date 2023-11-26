@@ -1,5 +1,5 @@
         
-# 📚 A crowdsourced list of cyber books (and some other hidden gems 💎)
+# 📚 A crowdsourced list of cyber books (and some other gems 💎)
 
 🙋 Have some to add? Submit a pull request
 
