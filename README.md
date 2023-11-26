@@ -15,7 +15,8 @@
 | Freedom | Daniel Suarez | <https://en.wikipedia.org/wiki/Freedom%E2%84%A2> | 
 | Hackers   | Steven Levy       | <https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution>      |
 | The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics       |    Ben Buchanan   |   <https://www.hup.harvard.edu/catalog.php?isbn=9780674987555>     |
-| 2600: The Hacker Quarterly | 
+| 2600: The Hacker Quarterly |
+| The Laundry Files | Charles Stross | <https://en.m.wikipedia.org/wiki/The_Laundry_Files> |
 | The Lazarus Heist | Geoff White | <https://www.penguin.co.uk/books/447163/the-lazarus-heist-by-white-geoff/9780241554272> | 
 | Neuromancer   | William Gibson       | <https://en.wikipedia.org/wiki/Neuromancer>      |
 | The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age | David E. Sanger | <https://crownpublishing.com/archives/feature/perfect-weapon-inside-story-cyberweapons> |
@@ -24,4 +25,5 @@
 | Snow Crash   | Neal Stephenson       | <https://en.wikipedia.org/wiki/Snow_Crash>      |
 | Spycatcher   | Peter Wright       | <https://en.wikipedia.org/wiki/Spycatcher>      |
 | The Spy in Moscow Station: A Counterspy's Hunt for a Deadly Cold War Threat |    Eric Haseltine  | <https://us.macmillan.com/books/9781250301161>   |
+| The Way of Kings: The Stormlight Archive Book One | Brandon Sanderson | <https://en.m.wikipedia.org/wiki/The_Stormlight_Archive> |
 | This Is How They Tell Me the World Ends: The Cyber-Weapons Arms Race   | Nicole Perlroth       | <https://en.wikipedia.org/wiki/This_Is_How_They_Tell_Me_the_World_Ends:_The_Cyberweapons_Arms_Race>      |
