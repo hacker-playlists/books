@@ -1,8 +1,6 @@
         
 # 📚 A crowdsourced list of cyber books (and some other gems 💎)
 
-🙋 Have some to add? Submit a pull request
-
 | Title      | Writer | Link     |
 | :---        |    :----:   |   -----------     |
 | Alan Turing: The Enigma   | Andrew Hodges       | <https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma>      |
@@ -30,3 +28,6 @@
 | The Spy in Moscow Station: A Counterspy's Hunt for a Deadly Cold War Threat |    Eric Haseltine  | <https://us.macmillan.com/books/9781250301161>   |
 | The Way of Kings: The Stormlight Archive Book One | Brandon Sanderson | <https://en.m.wikipedia.org/wiki/The_Stormlight_Archive> |
 | This Is How They Tell Me the World Ends: The Cyber-Weapons Arms Race   | Nicole Perlroth       | <https://en.wikipedia.org/wiki/This_Is_How_They_Tell_Me_the_World_Ends:_The_Cyberweapons_Arms_Race>      |
+
+🙋 Have some to add? Submit a pull request
+
