@@ -1,5 +1,5 @@
 
-# 📚 A crowdsourced list of books that inspired peeps 
+# 📚 A crowdsourced list of cyber books (and also some fantasy coz fantasy is awesome 🐉)
 
 🙋 Have some to add? Submit a pull request
 
