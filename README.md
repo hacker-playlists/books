@@ -28,6 +28,7 @@
 | The Spy in Moscow Station: A Counterspy's Hunt for a Deadly Cold War Threat |    Eric Haseltine  | <https://us.macmillan.com/books/9781250301161>   |
 | The Way of Kings: The Stormlight Archive Book One | Brandon Sanderson | <https://en.m.wikipedia.org/wiki/The_Stormlight_Archive> |
 | This Is How They Tell Me the World Ends: The Cyber-Weapons Arms Race   | Nicole Perlroth       | <https://en.wikipedia.org/wiki/This_Is_How_They_Tell_Me_the_World_Ends:_The_Cyberweapons_Arms_Race>      |
+| War Games | David Bischoff | <https://www.goodreads.com/en/book/show/74328> |
 
 🙋 Have some to add? Submit a pull request
 
