@@ -20,9 +20,11 @@
 | Hacking Politics - How Geeks, Progressives, The Tea Party, Gamers, Anarchists and Suits Teamed up to Defeat SOPA | David Moon | <https://www.jstor.org/stable/j.ctt1bkm5rz> |
 | The Laundry Files | Charles Stross | <https://en.m.wikipedia.org/wiki/The_Laundry_Files> |
 | The Lazarus Heist | Geoff White | <https://www.penguin.co.uk/books/447163/the-lazarus-heist-by-white-geoff/9780241554272> | 
+| The Long Way to a Small, Angry Planet | Becky Chambers | <https://en.wikipedia.org/wiki/The_Long_Way_to_a_Small,_Angry_Planet> |
 | Mars Trilogy | Kim Stanley Robinson | <https://en.wikipedia.org/wiki/New_York_2140> |
 | Neuromancer   | William Gibson       | <https://en.wikipedia.org/wiki/Neuromancer>      |
 | New York 2140 | Kim Stanley Robinson | <https://en.wikipedia.org/wiki/New_York_2140> |
+| Parable of the Sower | Octavia Butler | <https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)> |
 | The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age | David E. Sanger | <https://crownpublishing.com/archives/feature/perfect-weapon-inside-story-cyberweapons> |
 | The Rho Agenda Series | Richard Phillips | <https://www.goodreads.com/series/61746-the-rho-agenda> |
 | Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers | Andy Greenberg | <https://www.penguinrandomhouse.com/books/597684/sandworm-by-andy-greenberg/> |
