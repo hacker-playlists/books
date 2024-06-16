@@ -29,6 +29,7 @@
 | The Rho Agenda Series | Richard Phillips | <https://www.goodreads.com/series/61746-the-rho-agenda> |
 | Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers | Andy Greenberg | <https://www.penguinrandomhouse.com/books/597684/sandworm-by-andy-greenberg/> |
 | Savaged by Systemd: an Erotic Unix Encounter | Michael Warren Lucas | <https://www.amazon.com/Savaged-Systemd-Erotic-Unix-Encounter-ebook/dp/B075DYXZW1> |
+| Seveneves | Neal Stephenson | <https://en.wikipedia.org/wiki/Seveneves> |
 | Snow Crash   | Neal Stephenson       | <https://en.wikipedia.org/wiki/Snow_Crash>      |
 | Spycatcher   | Peter Wright       | <https://en.wikipedia.org/wiki/Spycatcher>      |
 | The Spy in Moscow Station: A Counterspy's Hunt for a Deadly Cold War Threat |    Eric Haseltine  | <https://us.macmillan.com/books/9781250301161>   |
