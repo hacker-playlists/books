@@ -13,6 +13,7 @@
 | Cryptonomicon     |    Neal Stephenson    |   <https://en.wikipedia.org/wiki/Cryptonomicon>     |
 | Cuckoo's Egg   | Cliff Stoll        | <https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)>      |
 | Daemon | Daniel Suarez | <https://en.wikipedia.org/wiki/Daemon_(novel)> |
+| Dark Wire: The Incredible True Story of the Largest Sting Operation Ever | Joseph Cox | <https://www.hachettebookgroup.com/titles/joseph-cox/dark-wire/9781541702691/> |
 | Freedom | Daniel Suarez | <https://en.wikipedia.org/wiki/Freedom%E2%84%A2> | 
 | Hackers   | Steven Levy       | <https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution>      |
 | The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics |    Ben Buchanan   |   <https://www.hup.harvard.edu/catalog.php?isbn=9780674987555>     |
