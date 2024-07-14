@@ -27,6 +27,7 @@
 | The Long Way to a Small, Angry Planet | Becky Chambers | <https://en.wikipedia.org/wiki/The_Long_Way_to_a_Small,_Angry_Planet> |
 | Mars Trilogy | Kim Stanley Robinson | <https://en.wikipedia.org/wiki/New_York_2140> |
 | Mona Lisa Overdrive | William Gibson | <https://en.wikipedia.org/wiki/Mona_Lisa_Overdrive>      |
+| Neuromancer | William Gibson | <https://en.wikipedia.org/wiki/Neuromancer>     |
 | New York 2140 | Kim Stanley Robinson | <https://en.wikipedia.org/wiki/New_York_2140> |
 | Parable of the Sower | Octavia Butler | <https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)> |
 | The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age | David E. Sanger | <https://crownpublishing.com/archives/feature/perfect-weapon-inside-story-cyberweapons> |
