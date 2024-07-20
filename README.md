@@ -13,6 +13,7 @@
 | Countdown to Zero Day | Kim Zetter | <https://www.penguinrandomhouse.com/books/219931/countdown-to-zero-day-by-kim-zetter/> |
 | Cryptonomicon     |    Neal Stephenson    |   <https://en.wikipedia.org/wiki/Cryptonomicon>     |
 | Cuckoo's Egg   | Cliff Stoll        | <https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)>      |
+| Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World | Joseph Menn | <https://www.amazon.com/Cult-Dead-Cow-Original-Supergroup-ebook/dp/B07J54F9KR> |
 | Daemon | Daniel Suarez | <https://en.wikipedia.org/wiki/Daemon_(novel)> |
 | Dark Wire: The Incredible True Story of the Largest Sting Operation Ever | Joseph Cox | <https://www.hachettebookgroup.com/titles/joseph-cox/dark-wire/9781541702691/> |
 | Philip K. Dick | Do Androids Dream of Electric Sheep? | <https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F> |
