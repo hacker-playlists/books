@@ -1,47 +1,57 @@
         
-# 📚 A crowdsourced list of cyber books (and some other gems 💎)
+# 📚 A crowdsourced list of cyber books
+# Non-Fiction
 
-| Title      | Writer | Link     |
+|      | Writer | Title     |
 | :---        |    :----:   |   -----------     |
-| Alan Turing: The Enigma   | Andrew Hodges       | <https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma>      |
-| Aurora | Kim Stanley Robinson | <https://en.wikipedia.org/wiki/Aurora_(novel)> |
-| Blackout | Marc Elsberg | <https://en.wikipedia.org/wiki/Blackout_(Elsberg_novel)> |
-| The Blue Nowhere | Jeffery Deaver | <https://www.jefferydeaver.com/novel/the-blue-nowhere/> | 
-| Burn-In: A Novel of the Real Robotic Revolution | P. W. Singer | <https://en.wikipedia.org/wiki/P._W._Singer#Burn-In:_A_Novel_of_the_Real_Robotic_Revolution> |
-| Code   | Charles Petzold       | <https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software>      |
-| Count Zero | William Gibson | <https://en.wikipedia.org/wiki/Count_Zero>     |
-| Countdown to Zero Day | Kim Zetter | <https://www.penguinrandomhouse.com/books/219931/countdown-to-zero-day-by-kim-zetter/> |
-| Cryptonomicon     |    Neal Stephenson    |   <https://en.wikipedia.org/wiki/Cryptonomicon>     |
-| Cuckoo's Egg   | Cliff Stoll        | <https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)>      |
-| Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World | Joseph Menn | <https://www.amazon.com/Cult-Dead-Cow-Original-Supergroup-ebook/dp/B07J54F9KR> |
-| Daemon | Daniel Suarez | <https://en.wikipedia.org/wiki/Daemon_(novel)> |
-| Dark Wire: The Incredible True Story of the Largest Sting Operation Ever | Joseph Cox | <https://www.hachettebookgroup.com/titles/joseph-cox/dark-wire/9781541702691/> |
-| Philip K. Dick | Do Androids Dream of Electric Sheep? | <https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F> |
-| Freedom | Daniel Suarez | <https://en.wikipedia.org/wiki/Freedom%E2%84%A2> | 
-| Hackers   | Steven Levy       | <https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution>      |
-| The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics |    Ben Buchanan   |   <https://www.hup.harvard.edu/catalog.php?isbn=9780674987555>     |
-| 2600: The Hacker Quarterly | Emmanuel Goldstein, editor | <https://www.2600.com/> |
-| Hacking Politics - How Geeks, Progressives, The Tea Party, Gamers, Anarchists and Suits Teamed up to Defeat SOPA | David Moon | <https://www.jstor.org/stable/j.ctt1bkm5rz> |
-| Islands In The Net | Bruce Sterling | <https://en.wikipedia.org/wiki/Islands_in_the_Net> |
-| The Laundry Files | Charles Stross | <https://en.m.wikipedia.org/wiki/The_Laundry_Files> |
-| The Lazarus Heist | Geoff White | <https://www.penguin.co.uk/books/447163/the-lazarus-heist-by-white-geoff/9780241554272> | 
-| The Long Way to a Small, Angry Planet | Becky Chambers | <https://en.wikipedia.org/wiki/The_Long_Way_to_a_Small,_Angry_Planet> |
-| Mars Trilogy | Kim Stanley Robinson | <https://en.wikipedia.org/wiki/New_York_2140> |
-| Mona Lisa Overdrive | William Gibson | <https://en.wikipedia.org/wiki/Mona_Lisa_Overdrive>      |
-| Neuromancer | William Gibson | <https://en.wikipedia.org/wiki/Neuromancer>     |
-| New York 2140 | Kim Stanley Robinson | <https://en.wikipedia.org/wiki/New_York_2140> |
-| Parable of the Sower | Octavia Butler | <https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)> |
-| The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age | David E. Sanger | <https://crownpublishing.com/archives/feature/perfect-weapon-inside-story-cyberweapons> |
-| The Rho Agenda Series | Richard Phillips | <https://www.goodreads.com/series/61746-the-rho-agenda> |
-| Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers | Andy Greenberg | <https://www.penguinrandomhouse.com/books/597684/sandworm-by-andy-greenberg/> |
-| Savaged by Systemd: an Erotic Unix Encounter | Michael Warren Lucas | <https://www.amazon.com/Savaged-Systemd-Erotic-Unix-Encounter-ebook/dp/B075DYXZW1> |
-| Seveneves | Neal Stephenson | <https://en.wikipedia.org/wiki/Seveneves> |
-| Snow Crash   | Neal Stephenson       | <https://en.wikipedia.org/wiki/Snow_Crash>      |
-| Spycatcher   | Peter Wright       | <https://en.wikipedia.org/wiki/Spycatcher>      |
-| The Spy in Moscow Station: A Counterspy's Hunt for a Deadly Cold War Threat |    Eric Haseltine  | <https://us.macmillan.com/books/9781250301161>   |
-| The Way of Kings: The Stormlight Archive Book One | Brandon Sanderson | <https://en.m.wikipedia.org/wiki/The_Stormlight_Archive> |
-| This Is How They Tell Me the World Ends: The Cyber-Weapons Arms Race   | Nicole Perlroth       | <https://en.wikipedia.org/wiki/This_Is_How_They_Tell_Me_the_World_Ends:_The_Cyberweapons_Arms_Race>      |
-| War Games | David Bischoff | <https://www.goodreads.com/en/book/show/74328> |
+|    | Andrew Hodges       | [Alan Turing: The Enigma](https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma)      |
+|   | Charles Petzold       | [Code](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software)    |
+| | Kim Zetter | [Countdown to Zero Day](https://www.penguinrandomhouse.com/books/219931/countdown-to-zero-day-by-kim-zetter) |
+|    | Cliff Stoll        | [Cuckoo's Egg](https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book))    |
+| | Joseph Menn | [Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World](https://www.amazon.com/Cult-Dead-Cow-Original-Supergroup-ebook/dp/B07J54F9KR) |
+|  | Joseph Cox | [Dark Wire: The Incredible True Story of the Largest Sting Operation Ever](https://www.hachettebookgroup.com/titles/joseph-cox/dark-wire/9781541702691)|
+|    | Steven Levy       | [Hackers](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution)     |
+|  |    Ben Buchanan   |   [The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics](https://www.hup.harvard.edu/catalog.php?isbn=9780674987555)     |
+|  | Emmanuel Goldstein, editor | [2600: The Hacker Quarterly](https://www.2600.com)|
+|  | David Moon | [Hacking Politics - How Geeks, Progressives, The Tea Party, Gamers, Anarchists and Suits Teamed up to Defeat SOPA](https://www.jstor.org/stable/j.ctt1bkm5rz) |
+|  | Geoff White | [The Lazarus Heist](https://www.penguin.co.uk/books/447163/the-lazarus-heist-by-white-geoff/9780241554272) |
+|  | David E. Sanger | [The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age](https://en.wikipedia.org/wiki/The_Perfect_Weapon:_War,_Sabotage,_and_Fear_in_the_Cyber_Age) |
+|  | Andy Greenberg | [Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers](https://www.penguinrandomhouse.com/books/597684/sandworm-by-andy-greenberg) |
+|    | Peter Wright       | [Spycatcher](https://en.wikipedia.org/wiki/Spycatcher)      |
+|  |    Eric Haseltine  | [The Spy in Moscow Station: A Counterspy's Hunt for a Deadly Cold War Threat](https://us.macmillan.com/books/9781250301161)   |
+|   | Nicole Perlroth       | [This Is How They Tell Me the World Ends: The Cyber-Weapons Arms Race](https://en.wikipedia.org/wiki/This_Is_How_They_Tell_Me_the_World_Ends:_The_Cyberweapons_Arms_Race)      |
+
+
+        
+# 📚 Fiction
+
+|      | Writer | Title    |
+| :---        |    :----:   |   -----------     |
+|  | Kim Stanley Robinson | [Aurora](https://en.wikipedia.org/wiki/Aurora_(novel)) |
+|  | Marc Elsberg | [Blackout](https://en.wikipedia.org/wiki/Blackout_(Elsberg_novel)) |
+|  | Jeffery Deaver | [The Blue Nowhere](https://www.jefferydeaver.com/novel/the-blue-nowhere) | 
+|  | P. W. Singer | [Burn-In: A Novel of the Real Robotic Revolution](https://en.wikipedia.org/wiki/P._W._Singer#Burn-In:_A_Novel_of_the_Real_Robotic_Revolution) |
+|  | William Gibson | [Count Zero](https://en.wikipedia.org/wiki/Count_Zero)   |
+|    |    Neal Stephenson    |   [Cryptonomicon](https://en.wikipedia.org/wiki/Cryptonomicon)    |
+| | Joseph Cox | [Dark Wire: The Incredible True Story of the Largest Sting Operation Ever ](https://www.hachettebookgroup.com/titles/joseph-cox/dark-wire/9781541702691) |
+|  | Daniel Suarez | [Freedom](https://en.wikipedia.org/wiki/Freedom%E2%84%A2) | 
+|  | Bruce Sterling | [Islands In The Net](https://en.wikipedia.org/wiki/Islands_in_the_Net) |
+|  | Charles Stross | [The Laundry Files](https://en.m.wikipedia.org/wiki/The_Laundry_Files) |
+|  | Becky Chambers | [The Long Way to a Small, Angry Planet](https://en.wikipedia.org/wiki/The_Long_Way_to_a_Small,_Angry_Planet) |
+|  | Kim Stanley Robinson | [Mars Trilogy](https://en.wikipedia.org/wiki/New_York_2140) |
+|  | William Gibson | [Mona Lisa Overdrive](https://en.wikipedia.org/wiki/Mona_Lisa_Overdrive)    |
+| | William Gibson | [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer)    |
+|  | Kim Stanley Robinson | [New York 2140](https://en.wikipedia.org/wiki/New_York_2140) |
+|  | Octavia Butler | [Parable of the Sower](https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)) |
+|  | Richard Phillips | [The Rho Agenda Series](https://www.goodreads.com/series/61746-the-rho-agenda) |
+|  | Michael Warren Lucas | [Savaged by Systemd: an Erotic Unix Encounter](https://www.amazon.com/Savaged-Systemd-Erotic-Unix-Encounter-ebook/dp/B075DYXZW1) |
+|  | Neal Stephenson | [Seveneves](https://en.wikipedia.org/wiki/Seveneves) |
+|   | Neal Stephenson       | [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)      |
+|  | Brandon Sanderson | [The Way of Kings: The Stormlight Archive Book One](https://en.m.wikipedia.org/wiki/The_Stormlight_Archive) |
+| | David Bischoff | [War Games ](https://www.goodreads.com/en/book/show/74328) |
+
+
+
 
 🙋 Have some to add? Submit a pull request
 
