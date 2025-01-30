@@ -17,6 +17,7 @@
  | [Hacking Politics - How Geeks, Progressives, The Tea Party, Gamers, Anarchists and Suits Teamed up to Defeat SOPA](https://www.jstor.org/stable/j.ctt1bkm5rz) | David Moon |
  | [Hidden Hand](https://en.wikipedia.org/wiki/Hidden_Hand_(book))   | Clive Hamilton & Mareike Ohlberg |
  | [The Lazarus Heist](https://www.penguin.co.uk/books/447163/the-lazarus-heist-by-white-geoff/9780241554272) | Geoff White |
+ | [Lords of Crypto Crime](https://www.amazon.com/Lords-Crypto-Crime-author/dp/1800962266) | Andy Greenberg|
  |[Pegasus: The Story of the World's Most Dangerous Spyware](https://www.amazon.com/Pegasus/dp/1529094836) | Laurent Richard |
  | [The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age](https://en.wikipedia.org/wiki/The_Perfect_Weapon:_War,_Sabotage,_and_Fear_in_the_Cyber_Age) | David E. Sanger |
   | [Prisoners of Geography](https://en.wikipedia.org/wiki/Tim_Marshall_(journalist)#Politics_of_place_series) | Tim Marshall |
