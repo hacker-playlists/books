@@ -34,7 +34,7 @@
 
 
         
-### ☄️ Fiction
+### Fiction
 
 | Title    | Author |
 |    :----:   |   -----------     |
