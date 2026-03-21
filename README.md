@@ -1,6 +1,6 @@
         
-## 📚 A crowdsourced list of cyber books
-### 🦠 Non-Fiction
+## A crowdsourced list of cyber books
+### Non-Fiction
 
  | Title     | Author |
  |    :----:   |   -----------     |
