@@ -9,6 +9,7 @@
  | [Countdown to Zero Day](https://www.penguinrandomhouse.com/books/219931/countdown-to-zero-day-by-kim-zetter) | Kim Zetter| 
  | [Cuckoo's Egg](https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book))    | Cliff Stoll   |
  | [Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World](https://www.amazon.com/Cult-Dead-Cow-Original-Supergroup-ebook/dp/B07J54F9KR)  | Joseph Menn |
+ | [Cybersecurity and Cyberwar: What Everyone Needs to Know](https://www.amazon.com/Cybersecurity-Cyberwar-Everyone-Needs-Know%C2%AE/dp/0199918112) | P.W. Singer & Allan Friedman |
  | [Dark Wire: The Incredible True Story of the Largest Sting Operation Ever](https://www.hachettebookgroup.com/titles/joseph-cox/dark-wire/9781541702691)| Joseph Cox | 
  | [The Future of Geography](https://en.wikipedia.org/wiki/Tim_Marshall_(journalist)#Politics_of_place_series) |
  | [Hackers](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution) | Steven Levy  |
