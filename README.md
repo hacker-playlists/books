@@ -43,7 +43,6 @@
 | [Burn-In](https://en.wikipedia.org/wiki/P._W._Singer#Burn-In:_A_Novel_of_the_Real_Robotic_Revolution) | P. W. Singer |
 | [Count Zero](https://en.wikipedia.org/wiki/Count_Zero) | William Gibson |
 | [Cryptonomicon](https://en.wikipedia.org/wiki/Cryptonomicon) | Neal Stephenson |
-| [Dark Wire](https://www.hachettebookgroup.com/titles/joseph-cox/dark-wire/9781541702691) | Joseph Cox |
 | [Freedom™](https://en.wikipedia.org/wiki/Freedom%E2%84%A2) | Daniel Suarez |
 | [Islands in the Net](https://en.wikipedia.org/wiki/Islands_in_the_Net) | Bruce Sterling |
 | [The Laundry Files](https://en.m.wikipedia.org/wiki/The_Laundry_Files) | Charles Stross |
