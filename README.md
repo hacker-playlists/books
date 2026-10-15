@@ -1,6 +1,6 @@
 ## 📚 a crowdsourced list of cyber books
 
-![tinkering](https://img.shields.io/badge/focus-resource-pink)
+![tinkering](https://img.shields.io/badge/focus-books-blue)
 
 ### non-fiction
 
