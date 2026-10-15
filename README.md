@@ -1,5 +1,7 @@
 ## 📚 a crowdsourced list of cyber books
 
+![tinkering](https://img.shields.io/badge/focus-resource-pink)
+
 ### non-fiction
 
 | Title | Author |
