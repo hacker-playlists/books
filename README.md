@@ -1,5 +1,35 @@
 ## 📚 a crowdsourced list of cyber books
 
+ | Title     | Author |
+ |    :----:   |   -----------     |
+ | [Alan Turing: The Enigma](https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma)     | Andrew Hodges   |
+ | [Code](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software)   | Charles Petzold |
+ | [Countdown to Zero Day](https://www.penguinrandomhouse.com/books/219931/countdown-to-zero-day-by-kim-zetter) | Kim Zetter| 
+ | [Cuckoo's Egg](https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book))    | Cliff Stoll   |
+ | [Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World](https://www.amazon.com/Cult-Dead-Cow-Original-Supergroup-ebook/dp/B07J54F9KR)  | Joseph Menn |
+ | [Cybersecurity and Cyberwar: What Everyone Needs to Know](https://www.amazon.com/Cybersecurity-Cyberwar-Everyone-Needs-Know%C2%AE/dp/0199918112) | P.W. Singer & Allan Friedman |
+ | [Dark Wire: The Incredible True Story of the Largest Sting Operation Ever](https://www.hachettebookgroup.com/titles/joseph-cox/dark-wire/9781541702691)| Joseph Cox | 
+ | [The Future of Geography](https://en.wikipedia.org/wiki/Tim_Marshall_(journalist)#Politics_of_place_series) |
+ | [Hackers](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution) | Steven Levy  |
+ |   [The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics](https://www.hup.harvard.edu/catalog.php?isbn=9780674987555)     |     Ben Buchanan   |
+ | [2600: The Hacker Quarterly](https://www.2600.com)|   Emmanuel Goldstein, editor |
+ | [Hacking Politics - How Geeks, Progressives, The Tea Party, Gamers, Anarchists and Suits Teamed up to Defeat SOPA](https://www.jstor.org/stable/j.ctt1bkm5rz) | David Moon |
+ | [Hidden Hand](https://en.wikipedia.org/wiki/Hidden_Hand_(book))   | Clive Hamilton & Mareike Ohlberg |
+ | [The Lazarus Heist](https://www.penguin.co.uk/books/447163/the-lazarus-heist-by-white-geoff/9780241554272) | Geoff White |
+ | [Lords of Crypto Crime](https://www.amazon.com/Lords-Crypto-Crime-author/dp/1800962266) | Andy Greenberg|
+ |[Pegasus: The Story of the World's Most Dangerous Spyware](https://www.amazon.com/Pegasus/dp/1529094836) | Laurent Richard |
+ | [The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age](https://en.wikipedia.org/wiki/The_Perfect_Weapon:_War,_Sabotage,_and_Fear_in_the_Cyber_Age) | David E. Sanger |
+  | [Prisoners of Geography](https://en.wikipedia.org/wiki/Tim_Marshall_(journalist)#Politics_of_place_series) | Tim Marshall |
+  | [Psychology of Intelligence Analysis](https://www.cia.gov/resources/csi/books-monographs/psychology-of-intelligence-analysis-2/) | Richard J. Heuer Jr |
+  | [The Next Factory of the World](https://www.amazon.com/Next-Factory-World-Investment-Reshaping-ebook/dp/B01MUGYCME) | Irene Yuan Sun |
+ | [Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers](https://www.penguinrandomhouse.com/books/597684/sandworm-by-andy-greenberg) | Andy Greenberg |
+ | [Spycatcher](https://en.wikipedia.org/wiki/Spycatcher) | Peter Wright    |
+ | [The Spy in Moscow Station: A Counterspy's Hunt for a Deadly Cold War Threat](https://us.macmillan.com/books/9781250301161)   | Eric Haseltine |
+ | [This Is How They Tell Me the World Ends: The Cyber-Weapons Arms Race](https://en.wikipedia.org/wiki/This_Is_How_They_Tell_Me_the_World_Ends:_The_Cyberweapons_Arms_Race) | Nicole Perlroth   |
+ | [Visual Threat Intelligence](https://store.securitybreak.io/threatintel) | Thomas Roccia |
+ | [We Are Bellingcat](https://www.bellingcat.com/book/) | Eliot Higgins |
+ | [World on the Brink](https://worldonthebrink.com/) | Dmitri Alperovitch |
+ 
 ![tinkering](https://img.shields.io/badge/focus-books-blue)
 
 ### non-fiction
